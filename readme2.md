@@ -83,7 +83,7 @@ Executes deletion and updates terraform.tfstate
 
 
 
-Command	  Purpose	 Key                            Actions
+Command	  Purpose	   Key                            Actions
 terraform init	    Initialize project	                  Downloads providers, sets up backend
 terraform plan	    Show execution plan	                  Compares desired and current state
 terraform apply	    Apply the changes	                  Calls cloud APIs, provisions infrastructure
